@@ -1,0 +1,7 @@
+C:\Users\Brigh\Desktop\BirdsCheck\BirdsCheck\bin\Debug\BirdsCheck.exe.config
+C:\Users\Brigh\Desktop\BirdsCheck\BirdsCheck\bin\Debug\BirdsCheck.exe
+C:\Users\Brigh\Desktop\BirdsCheck\BirdsCheck\bin\Debug\BirdsCheck.pdb
+C:\Users\Brigh\Desktop\BirdsCheck\BirdsCheck\obj\Debug\BirdsCheck.csprojResolveAssemblyReference.cache
+C:\Users\Brigh\Desktop\BirdsCheck\BirdsCheck\obj\Debug\BirdsCheck.csproj.CoreCompileInputs.cache
+C:\Users\Brigh\Desktop\BirdsCheck\BirdsCheck\obj\Debug\BirdsCheck.exe
+C:\Users\Brigh\Desktop\BirdsCheck\BirdsCheck\obj\Debug\BirdsCheck.pdb
